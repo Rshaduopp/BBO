@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackContext
 app = Flask(__name__)
 
 # توكن البوت
-TOKEN = "7930119641:AAE_sxzC_k-jvB8-Tm4PNHgu-NC8hbKO3LA"
+TOKEN = "6992845531:AAEUYl4qeXObHvzZ0f4Ogjit1gq3X98JG_4"
 
 # بوت تيليجرام
 bot_app = ApplicationBuilder().token(TOKEN).build()
